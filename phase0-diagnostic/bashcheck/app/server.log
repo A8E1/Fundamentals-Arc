@@ -1,0 +1,5 @@
+2026-11-01T09:00:01 INFO  request id=101 path=/login status=200
+2026-11-01T09:00:03 ERROR request id=102 path=/upload status=500
+2026-11-01T09:00:07 WARN  request id=103 path=/search status=429
+2026-11-01T09:01:12 ERROR request id=104 path=/upload status=500
+2026-11-01T09:02:45 INFO  request id=105 path=/home status=200

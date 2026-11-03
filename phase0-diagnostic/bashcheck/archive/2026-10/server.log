@@ -1,0 +1,3 @@
+2026-10-31T23:58:00 ERROR request id=90 path=/login status=500
+2026-10-31T23:59:00 INFO  request id=91 path=/upload status=200
+2026-10-31T23:59:30 ERROR request id=92 path=/upload status=503

@@ -1,0 +1,11 @@
+timestamp,user,action,status
+2026-11-01T08:00:00,ana,login,ok
+2026-11-01T08:01:10,ben,login,ok
+2026-11-01T08:02:30,ana,upload,ok
+2026-11-01T08:03:00,chloe,login,fail
+2026-11-01T08:04:15,ben,upload,fail
+2026-11-01T08:05:00,dev,search,ok
+2026-11-01T08:06:20,ana,search,ok
+2026-11-01T08:07:45,chloe,upload,ok
+2026-11-01T08:08:00,ben,logout,ok
+2026-11-01T08:09:30,ana,login,ok
