@@ -1,0 +1,7 @@
+   .venv/
+   __pycache__/
+   build/
+   .gradle/
+   *.db
+   .DS_Store
+   pointers
